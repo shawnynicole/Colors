@@ -9,6 +9,7 @@ Color.invisible is also available as a replacement for Color.clear in scenarios 
 
 ## Requirements
 
+- iOS 14.0+ / Mac OS X 10.15+
 - Xcode 10.2+
 - Swift 5.0+
 
